@@ -6,9 +6,14 @@ Original Author : Solomon Bothwell
 
 ssbothwell@gmail.com
 
---
+----------------------------------------------------------
+
 Fork name : Magnus167/greedypacker, hosted at https://github.com/Magnus167/greedypacker
+
 Fork owner : github.com/Magnus167
+
+----------------------------------------------------------
+----------------------------------------------------------
 
 ![Maximal Rectangle Rendering](https://raw.githubusercontent.com/ssbothwell/greedypacker/master/static/maximal_rectangleAlgorithm-bottom_leftHeuristic.png)
 
