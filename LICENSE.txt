@@ -11,3 +11,16 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+----------------------------------------------------------------
+
+Copyright 2023 github.com/magnus167
+
+Anyone or any entity has the rights to do whatever they want 
+with my contributions towards this repostiry as long as 
+1) they include this license file along with the unmodified 
+of Solomon Bothwell's coyright licence (above the dashed line).
+2) respect and abide by the terms of Solomon Bothwell's and this
+license.
+3) ensure the original sources (incl. Solomon Bothwell's) are made
+available when distributing any derived/compiled work.
